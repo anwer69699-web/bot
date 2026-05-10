@@ -1,0 +1,14 @@
+{
+  "name": "nuxus-hub-bot",
+  "version": "3.0.0",
+  "description": "Nuxus Hub Premium Bot — متجر سكربتات Nuxus Hub نظام متكامل",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "@octokit/rest": "^21.0.2",
+    "better-sqlite3": "^11.7.0"
+  }
+}
